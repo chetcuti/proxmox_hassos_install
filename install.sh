@@ -40,6 +40,7 @@ else:
     print(int(last_vm)+1)
 EOF
 )
+VMID=100
 echo -e "\n\n\n" \
     "********************************\n" \
     "*  Getting latest HassOS Info  *\n" \
